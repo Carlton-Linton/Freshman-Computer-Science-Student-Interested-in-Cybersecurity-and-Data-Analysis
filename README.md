@@ -6,4 +6,4 @@ LinkedIn: www.linkedin.com/in/carlton-linton-3075a627a
 Project Name: Background Clock
 Description: A windows program that shows a clock with the exact time on your background/wallpaper.
 Programs Used: Java
-Code: 
+Code:
